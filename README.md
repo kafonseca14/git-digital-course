@@ -5,3 +5,4 @@
 # Segunda alteração que quero fazer 
 
 * novo - comando git push
+* outro comando - git pull
