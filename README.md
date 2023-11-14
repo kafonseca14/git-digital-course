@@ -6,3 +6,4 @@
 
 * novo - comando git push
 * outro comando - git pull
+* mais um comando - git fetch
